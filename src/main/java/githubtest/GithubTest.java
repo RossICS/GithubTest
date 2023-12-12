@@ -16,6 +16,7 @@ public class GithubTest {
     public static void main(String[] args) {
         System.out.println("Github Test");
         System.out.println("Hello Octocat!");
+        System.out.println("Happy F.R.O.S.T.Y.!");
     }
     
 }
