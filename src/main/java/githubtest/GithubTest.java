@@ -1,12 +1,12 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * December 12, 2023
+ * Testing the github
  */
 package githubtest;
 
 /**
  *
- * @author Administrator
+ * @author RKaune
  */
 public class GithubTest {
 
